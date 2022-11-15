@@ -1,0 +1,6 @@
+name = "hmt-worker"
+main = "src/index.js"
+compatibility_date = "2022-11-07"
+account_id = "e10925266ab31c412421aa615bd85083"
+node_compat = true
+
